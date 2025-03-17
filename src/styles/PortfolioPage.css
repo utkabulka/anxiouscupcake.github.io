@@ -1,0 +1,10 @@
+.portfolio-grid {
+  display: flex;
+  flex-direction: row;
+}
+
+.portfolio-column {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
